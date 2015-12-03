@@ -1,0 +1,15 @@
+{
+  "name": "dailyprogrammer",
+  "version": "1.0.0",
+  "description": "My personal solutions to /r/dailyprogrammer challenges",
+  "main": "index.js",
+  "dependencies": {
+    "ramda": "^0.18.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
